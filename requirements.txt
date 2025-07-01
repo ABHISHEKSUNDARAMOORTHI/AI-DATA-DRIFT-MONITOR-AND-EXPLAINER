@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit
+pandas
+google-generativeai
+seaborn
+matplotlib
+plotly
+python-dotenv
+scikit-learn

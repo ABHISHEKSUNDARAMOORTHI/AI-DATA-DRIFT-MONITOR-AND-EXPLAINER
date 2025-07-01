@@ -1,0 +1,21 @@
+user_id,age,gender,income,region,products_purchased,signup_date,payment_method,is_premium_user
+101,28,Male,55000,North,3,2022-01-15,Credit Card,0
+102,34,Female,72000,South,5,2022-02-20,Debit Card,1
+103,45,Male,80000,East,2,2022-03-01,Credit Card,1
+104,22,Female,48000,West,1,2022-04-10,PayPal,0
+105,39,Male,65000,North,4,2022-05-05,Credit Card,1
+106,31,Female,60000,South,3,2022-06-12,Bank Transfer,0
+107,26,Male,52000,East,2,2022-07-18,Credit Card,0
+108,50,Female,95000,West,6,2022-08-22,Credit Card,1
+109,33,Male,58000,North,3,2022-09-01,Debit Card,0
+110,42,Female,70000,South,4,2022-10-08,PayPal,1
+111,29,Male,53000,East,2,2022-11-14,Credit Card,0
+112,36,Female,68000,West,5,2022-12-01,Bank Transfer,1
+113,27,Male,56000,North,3,2023-01-05,Credit Card,0
+114,48,Female,85000,South,6,2023-02-11,Debit Card,1
+115,30,Male,59000,East,2,2023-03-20,Credit Card,0
+116,25,Female,49000,West,1,2023-04-25,PayPal,0
+117,41,Male,67000,North,4,2023-05-30,Credit Card,1
+118,35,Female,62000,South,3,2023-06-01,Bank Transfer,0
+119,23,Male,50000,East,2,2023-07-07,Credit Card,0
+120,40,Female,75000,West,5,2023-08-15,Credit Card,1

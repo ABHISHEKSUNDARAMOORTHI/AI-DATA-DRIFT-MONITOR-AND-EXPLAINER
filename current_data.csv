@@ -1,0 +1,21 @@
+user_id,age,gender,income,region,products_purchased,payment_method,is_premium_user,device_type
+121,32,Female,58000,North,2,Credit Card,1,Mobile
+122,38,Female,75000,Central,3,Debit Card,1,Desktop
+123,48,Male,82000,East,1,Credit Card,1,Mobile
+124,25,Female,50000,West,1,PayPal,0,Desktop
+125,42,Male,68000,North,3,Credit Card,1,Tablet
+126,35,Female,63000,South,2,,0,Mobile
+127,30,Male,55000,East,1,Credit Card,0,Desktop
+128,52,Female,98000,West,4,Credit Card,1,Mobile
+129,36,Female,60000,North,2,Debit Card,1,Tablet
+130,45,Male,73000,Central,3,,1,Desktop
+131,31,Female,56000,East,1,Credit Card,0,Mobile
+132,39,Male,70000,West,2,Bank Transfer,1,Desktop
+133,30,Female,59000,North,2,Credit Card,1,Mobile
+134,50,Male,88000,South,4,Debit Card,1,Tablet
+135,33,Female,61000,East,1,Credit Card,0,Desktop
+136,28,Male,51000,West,1,PayPal,0,Mobile
+137,44,Female,70000,North,3,Credit Card,1,Tablet
+138,37,Male,65000,South,2,Bank Transfer,0,Desktop
+139,26,Female,53000,Central,1,Credit Card,0,Mobile
+140,43,Male,78000,West,3,Credit Card,1,Tablet
